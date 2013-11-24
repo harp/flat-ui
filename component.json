@@ -1,5 +1,5 @@
 {
-  "name": "flatui",
+  "name": "flat-ui",
   "repo": "harp/flat-ui",
   "description": "For Harp. A comfortable, responsive, and functional framework built upon Bootstrap.",
   "version": "2.1.1",
@@ -62,7 +62,7 @@
     "Flat-UI-Icons.eot",
     "Flat-UI-Icons.svg",
     "Flat-UI-Icons.ttf",
-    "Flat-UI-Icons.woff"
+    "Flat-UI-Icons.woff",
     "lato/lato-black-webfont.eot",
     "lato/lato-black-webfont.svg",
     "lato/lato-black-webfont.ttf",
