@@ -9,10 +9,11 @@
 
 ## Install
 
-To install Flat UI, run the following command from the root of your Harp project:
+To install Flat UI, you can [download this repository](https://github.com/harp/flat-ui/archive/master.zip) or use the [Component](http://component.io) package manager.
 
 ```bash
-harp install flat-ui
+npm install -g component
+component install harp/flat-ui
 ```
 
 Your project will look something like this…
